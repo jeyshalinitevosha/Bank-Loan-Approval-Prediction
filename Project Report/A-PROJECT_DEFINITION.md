@@ -14,3 +14,8 @@ This is a classification problem where the goal is to predict whether a loan wil
 - PREVINA MUNUGANAN (B031810286)
 - SHIVEDHASSEN BALASINGAM (B031810360)
 - VISHWAREETA VANOO (B031810196)
+
+#### Objectives:
+1. To develop a model that predicts the approval status of a loan
+2. To save time consumption
+3. To improve speed of customer service
