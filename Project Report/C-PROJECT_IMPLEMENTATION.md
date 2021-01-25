@@ -19,3 +19,12 @@
 |   Restoration                |$27,000                        |  Construction & Indirect costs                                                |             
 |   TOTAL                      |$1,346,200                     |  Estimation Cost     |                              |
 
+
+### Milestone Chart  
+| Milestone |  Scheduled Completion | Actual Completion |
+|-----|----|----|
+|   Milestone 1                |13/11/2020                     | 12/11/2020      |      
+|   Milestone 2                |16/12/2020                     | 16/12/2020      | 
+|   Milestone 3                |7/1/2021                       | 11/1/2021       |             
+
+
