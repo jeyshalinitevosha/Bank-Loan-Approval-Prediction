@@ -33,3 +33,19 @@ The image below is our WBS + Gantt Chart:
 | Stakeholder Coordinator | Ensure stakeholder records are kept up-to-date and reflect latest contact and engagement activities. Research, populate and manage database of event and speaking opportunities and prepare recommendations for project team members accordingly. |
 
 
+<img  src "" >
+**Shivedhassen Balasingam**
+| Roles | Responsibilities |
+|------|---------------|
+| Procurement Manager |-Estimate and establish cost parameters and budgets for purchases.<br> -Create and maintain good relationships with vendors/suppliers. <br> -Make professional decisions in a fast-paced environment.<br> -Maintain records of purchases, pricing, and other important data.|
+| Administrative Manager | Supervising day-to-day operations of the administrative department and staff members. Hiring, training, and evaluating employees, taking corrective action when necessary. Developing, reviewing, and improving administrative systems, policies, and procedures. |
+
+
+<img  src "" >
+**Vishwareeta Vanoo**
+| Roles | Responsibilities |
+|------|---------------|
+| Risk Manager |Estimate and establish cost parameters and budgets for purchases. Create and maintain good relationships with vendors/suppliers. Make professional decisions in a fast-paced environment. Maintain records of purchases, pricing, and other important data.|
+| Administrative Manager | Supervising day-to-day operations of the administrative department and staff members. Hiring, training, and evaluating employees, taking corrective action when necessary. Developing, reviewing, and improving administrative systems, policies, and procedures. |
+
+
