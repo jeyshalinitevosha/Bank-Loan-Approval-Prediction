@@ -6,7 +6,7 @@ A Gantt Chart is used to represent the Project Management Life Cycle of this pro
 
 The image below is our WBS + Gantt Chart:
 
-<img src "assets/Project Planning/gc.JPG" width = "100%">
+<img src "assets/gc.jpg" width = "100%">
 
 
 ### Risk Identification Chart 
@@ -20,7 +20,7 @@ The image below is our WBS + Gantt Chart:
 
 ### Responsibility Assignment Matrices (RAM)
 
-<img src "assets/Project Planning/ram.jpg" width = "100%">
+<img src "assets/ram.jpg" width = "100%">
 
 
 #### Team Members, Roles and Responsibilities 
