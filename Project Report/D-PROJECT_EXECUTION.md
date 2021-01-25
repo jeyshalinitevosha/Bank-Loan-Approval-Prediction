@@ -4,6 +4,6 @@
 ### Project Design and Coding
 
 #System Flowchart:
-<img src="assets/flowchart.JPG" width="60%">
+<img src="assets/flowchart.PNG" width="60%">
 
 
