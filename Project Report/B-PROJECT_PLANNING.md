@@ -41,7 +41,7 @@ The image below is our WBS + Gantt Chart:
 | Administrative Manager | -Supervising day-to-day operations of the administrative department and staff members<br> -Hiring, training, and evaluating employees, taking corrective action when necessary<br> -Developing, reviewing, and improving administrative systems, policies, and procedures |
 
 
-<img src="assets/reeta.jpeg" width="100%">
+<img src="assets/reeta.jpeg" width="40%" height = "auto">
 **Vishwareeta Vanoo**
 | Roles | Responsibilities |
 |--------|------------------|
@@ -49,7 +49,7 @@ The image below is our WBS + Gantt Chart:
 | Finance Analyst | -Perform financial forecasting, reporting, and operational metrics tracking<br> -Analyze financial data and create financial models for decision support<br> -Report on financial performance and prepare for regular leadership reviews<br> -Analyze past results, perform variance analysis, identify trends, and make recommendations for improvements<br> -Maintain a strong financial analysis foundation creating forecasts and models |
 
 
-<img  src "" >
+<img src="assets/previna.jpeg" width="40%" height = "auto">
 **Previna Munuganan**
 | Roles | Responsibilities |
 |--------|------------------|
