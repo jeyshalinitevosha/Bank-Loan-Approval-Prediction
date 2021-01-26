@@ -1,0 +1,177 @@
+<html>
+<head>
+<title>Bank Loan Approval Prediction System</title>
+<style type="text/css">
+
+      h1
+      {
+            padding-top: 20px;
+            font-family: Times New Roman;
+            font-size: 50px;
+            color: black;
+      }
+
+       h2
+      {
+            padding-bottom: 20px;
+            font-family: Times New Roman;
+            font-size: 30px;
+            color: black;
+      }
+
+      body
+      {
+            font-family: monda;
+            background-image: url("https://www.prescience.com.au/wp-content/uploads/2018/05/Tech-Background-01.png");
+            background-size: 200%;
+            background-position: center;
+            background-repeat: no-repeat;
+            margin: 0px;
+            padding: 0px;
+      }
+
+      form
+      {
+            text-align: center;
+      }
+
+      label
+      {
+            font-size: 20px;
+      }
+
+      input[type = text]
+      {
+            width: 30%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            border-radius: 25px;
+            box-sizing: border-box;
+      }
+
+      select
+      {
+            width: 30%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            border-radius: 25px;
+            box-sizing: border-box;
+      }
+
+      input[type = submit]
+      {
+            width: 20%;
+            font-size: 20px;
+            background-color: black;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 20px;
+            cursor: pointer;
+      }
+
+      input[type = submit]:hover
+      {
+            background-color: grey;
+      }
+
+      .results
+      {
+            font-family: Times New Roman;
+            text-align: center;
+            padding-bottom: 20px;
+            font-size: 50px;
+      }
+
+</style>
+</head>
+
+<body> 
+      <div class="topnav">
+      <center><h1>GRINGOTTS NATIONAL BANK</h1></center>
+      <center><h2>Bank Loan Approval Prediction System</h2></center>
+      </div>
+
+      <div class="results">
+      <span id="results">{{ results }}</span>
+      </div>
+      
+      <form action="{{ url_for('predict')}}" method="POST" class="centre">
+  
+            <label>Name</label><br>
+            <input type = 'text' id = 'name', name = 'name', required = 'required', placeholder = "Enter Applicant's Name..." />
+            <br></br>
+
+            <label>Age</label><br>
+            <input type = 'text' id = 'age', name = 'age', required = 'required', placeholder = "Enter Applicant's Age..." />
+            <br></br>
+
+            <label>Gender</label><br>
+            <select id="gender" name="gender">
+                  <option>-Select One-</option>
+                  <option value="1">Male</option>
+                  <option value="0">Female</option>
+            </select>
+            <br></br>
+
+            <label>Marital Status</label><br>
+            <select id="married" name="married">
+                  <option>-Select One-</option>
+                  <option value="1">Married</option>
+                  <option value="0">Not Married</option>
+            </select>
+            <br></br>
+
+            <label>Number of Dependents</label><br>
+            <select id="dependents" name="dependents">
+                  <option>-Select One-</option>
+                  <option value="0">0</option>
+                  <option value="1">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3 or More</option>
+            </select>
+            <br></br>
+
+            <label>Education</label><br>
+            <select id="education" name="education">
+                  <option>-Select One-</option>
+                  <option value="1">Educated</option>
+                  <option value="0">No Education</option>
+            </select>
+            <br></br>
+
+            <label>Employment</label><br>
+            <select id="self_employed" name="self_employed">
+                  <option>-Select One-</option>
+                  <option value="1">Self Employed</option>
+                  <option value="0">Other</option>
+            </select>
+            <br></br>
+
+            <label>Applicant Income</label><br>
+            <input type = 'text' id = 'app_income', name = 'app_income', required = 'required', placeholder = 'Enter Applicant Income...' />
+            <br></br>
+
+            <label>Coapplicant Income</label><br>
+            <input type = 'text' id = 'coapp_income', name = 'coapp_income', required = 'required', placeholder = 'Enter Coapplicant Income...' />
+            <br></br>
+
+            <label>Loan Amount</label><br>
+            <input type = 'text' id = 'loan_amount', name = 'loan_amount', required = 'required', placeholder = 'Enter Loan Amount...' />
+            <br></br>
+
+            <label>Credit History</label><br>
+            <select id="credit_history" name="credit_history">
+                  <option>-Select One-</option>
+                  <option value="0">0</option>
+                  <option value="1">1</option>
+            </select>
+            <br></br>
+
+            <label></label>
+            <input id="submit" type="submit" onclick="myFunction()" value="Predict"></input>
+      </form>
+</body>
+
+
+
+
