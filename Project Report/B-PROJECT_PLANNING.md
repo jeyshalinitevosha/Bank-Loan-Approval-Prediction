@@ -41,7 +41,7 @@ The image below is our WBS + Gantt Chart:
 | Administrative Manager | -Supervising day-to-day operations of the administrative department and staff members<br> -Hiring, training, and evaluating employees, taking corrective action when necessary<br> -Developing, reviewing, and improving administrative systems, policies, and procedures |
 
 
-<img  src "" >
+<img  src "assets/reeta.jpeg" width = "40%" height = auto >
 **Vishwareeta Vanoo**
 | Roles | Responsibilities |
 |--------|------------------|
