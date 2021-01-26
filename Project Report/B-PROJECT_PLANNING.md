@@ -25,7 +25,7 @@ The image below is our WBS + Gantt Chart:
 
 #### Team Members, Roles and Responsibilities 
 
-<img src="assets/jeysha.jpg" width="30%" height = "20%">
+<img src="assets/jeysha.jpeg" width="30%" height = "20%">
 **Jeyshalini Tevosha**
 | Roles | Responsibilities |
 |--------|------------------|
