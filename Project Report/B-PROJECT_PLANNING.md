@@ -6,7 +6,7 @@ A Gantt Chart is used to represent the Project Management Life Cycle of this pro
 
 The image below is our WBS + Gantt Chart:
 
-<img src "assets/gc.JPG" width = "100%">
+<img src="assets/gc.JPG" width="100%">
 
 
 ### Risk Identification Chart 
