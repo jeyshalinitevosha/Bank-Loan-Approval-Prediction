@@ -31,7 +31,7 @@ The image below is our WBS + Gantt Chart:
 |--------|------------------|
 | Project Manager | Project managers play the lead role in planning, executing, monitoring, controlling and closing projects. They are accountable for the entire project scope, project team, resources, and the success or failure of the project. A project manager, with the help of their team, is charged with multiple responsibilities that span the five project phases of a project life cycle (initiating, planning, executing, monitoring and closing). The project management phases intersect with 10 knowledge areas. The knowledge areas include integration, scope, time, cost, quality, human resources, communication, risk procurement and stakeholder management.|
 | Stakeholder Coordinator | -Ensure stakeholder records are kept up-to-date and reflect latest contact and engagement activities<br> -Research, populate and manage database of event and speaking opportunities and prepare recommendations for project team members accordingly |
-
+<br>
 
 <img  src "" >
 **Shivedhassen Balasingam**
@@ -39,7 +39,7 @@ The image below is our WBS + Gantt Chart:
 |--------|------------------|
 | Procurement Manager |-Estimate and establish cost parameters and budgets for purchases<br> -Create and maintain good relationships with vendors/suppliers <br> -Make professional decisions in a fast-paced environments<br> -Maintain records of purchases, pricing, and other important data|
 | Administrative Manager | -Supervising day-to-day operations of the administrative department and staff members<br> -Hiring, training, and evaluating employees, taking corrective action when necessary<br> -Developing, reviewing, and improving administrative systems, policies, and procedures |
-
+<br>
 
 <img src="assets/reeta.jpeg" width="30%" height = "20%">
 **Vishwareeta Vanoo**
@@ -47,9 +47,9 @@ The image below is our WBS + Gantt Chart:
 |--------|------------------|
 | Risk Manager |-Identifying and analyzing various risks (e.g. business, financial)<br> -Developing risk management controls and contingency plans <br> -Communicating recommendations to management|
 | Finance Analyst | -Perform financial forecasting, reporting, and operational metrics tracking<br> -Analyze financial data and create financial models for decision support<br> -Report on financial performance and prepare for regular leadership reviews<br> -Analyze past results, perform variance analysis, identify trends, and make recommendations for improvements<br> -Maintain a strong financial analysis foundation creating forecasts and models |
+<br>
 
-
-<img src="assets/previna.jpeg" width="40%" height = "auto">
+<img src="assets/previna.jpeg" width="30%" height = "20%">
 **Previna Munuganan**
 | Roles | Responsibilities |
 |--------|------------------|
