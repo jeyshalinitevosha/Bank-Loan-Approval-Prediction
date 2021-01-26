@@ -28,3 +28,5 @@
 |   Milestone 3                |7/1/2021                       | 11/1/2021       |             
 
 
+<br><br><br>
+##### Next: [Project Closing](D-PROJECT_CLOSING.md)
