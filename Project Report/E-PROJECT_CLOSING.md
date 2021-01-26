@@ -9,7 +9,7 @@
 <br><br>
 
 #### Lessons-Learned Form
-<img src="assets/ll.JPG" width="100%">
+<img src="assets/ll.PNG" width="100%">
 
 #### Final Project Report
 **BANK LOAN APPROVAL PREDICTION SYSTEM**
