@@ -20,7 +20,7 @@ The image below is our WBS + Gantt Chart:
 
 ### Responsibility Assignment Matrices (RAM)
 
-<img src "assets/ram.jpg" width = "100%">
+<img src="assets/ram.JPG" width="100%">
 
 
 #### Team Members, Roles and Responsibilities 
@@ -41,7 +41,7 @@ The image below is our WBS + Gantt Chart:
 | Administrative Manager | -Supervising day-to-day operations of the administrative department and staff members<br> -Hiring, training, and evaluating employees, taking corrective action when necessary<br> -Developing, reviewing, and improving administrative systems, policies, and procedures |
 
 
-<img  src "assets/reeta.jpeg" width = "40%" height = auto >
+<img src="assets/reeta.jpeg" width="100%">
 **Vishwareeta Vanoo**
 | Roles | Responsibilities |
 |--------|------------------|
