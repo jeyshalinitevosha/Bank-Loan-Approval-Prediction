@@ -25,7 +25,7 @@ The image below is our WBS + Gantt Chart:
 
 #### Team Members, Roles and Responsibilities 
 
-<img  src "" >
+<img src="assets/jeysha.jpg" width="30%" height = "20%">
 **Jeyshalini Tevosha**
 | Roles | Responsibilities |
 |--------|------------------|
@@ -33,7 +33,7 @@ The image below is our WBS + Gantt Chart:
 | Stakeholder Coordinator | -Ensure stakeholder records are kept up-to-date and reflect latest contact and engagement activities<br> -Research, populate and manage database of event and speaking opportunities and prepare recommendations for project team members accordingly |
 <br>
 
-<img  src "" >
+<img src="assets/shiva.jpg" width="30%" height = "20%">
 **Shivedhassen Balasingam**
 | Roles | Responsibilities |
 |--------|------------------|
