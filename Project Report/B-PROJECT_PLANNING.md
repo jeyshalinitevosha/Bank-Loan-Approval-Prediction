@@ -26,7 +26,7 @@ The image below is our WBS + Gantt Chart:
 #### Team Members, Roles and Responsibilities 
 
 <img src="assets/jeysha.jpeg" width="30%" height = "20%">
-**Jeyshalini Tevosha** <br>
+# JEYSHALINI TEVOSHA <br>
 
 
 | Roles | Responsibilities |
@@ -37,7 +37,7 @@ The image below is our WBS + Gantt Chart:
 
 
 <img src="assets/shiva.jpg" width="30%" height = "20%">
-**Shivedhassen Balasingam** <br>
+# SHIVEDHASSEN BALASINGAM <br>
 
 
 | Roles | Responsibilities |
@@ -47,7 +47,7 @@ The image below is our WBS + Gantt Chart:
 <br><br>
 
 <img src="assets/reeta.jpeg" width="30%" height = "20%">
-**Vishwareeta Vanoo** <br>
+# VISHWAREETA VANOO <br>
 
 
 | Roles | Responsibilities |
@@ -57,7 +57,7 @@ The image below is our WBS + Gantt Chart:
 <br><br>
 
 <img src="assets/previna.jpeg" width="30%" height = "20%">
-**Previna Munuganan** <br>
+# PREVINA MUNUGANAN <br>
 
 | Roles | Responsibilities |
 |--------|------------------|
