@@ -19,3 +19,7 @@ This is a classification problem where the goal is to predict whether a loan wil
 1. To develop a model that predicts the approval status of a loan
 2. To save time consumption
 3. To improve speed of customer service
+
+
+<br><br><br>
+##### Next: [Project Planning](B-PROJECT_PLANNING.md)
