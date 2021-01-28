@@ -54,5 +54,5 @@ Based on these inputs, the system predicts the loan to be **Approved**.
 <img src="assets/result.PNG" width="100%">
 
 <br><br><br>
-##### Next: [Project Completion](E-PROJECT_COMPLETION.md)
+##### Next: [Project Closing](E-PROJECT_CLOSING.md)
 
